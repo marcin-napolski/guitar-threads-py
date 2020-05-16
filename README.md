@@ -1,5 +1,2 @@
 # hello-world
-hello-world repository
-
-
-bla bla bla
+small console application application for learning note positions on guitar
